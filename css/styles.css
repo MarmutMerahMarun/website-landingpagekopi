@@ -304,6 +304,13 @@ img.brand-logo {
   font-weight: 600;
 }
 
+.product .description {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
 .price {
   color: var(--accent);
   font-weight: 700;
